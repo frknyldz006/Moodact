@@ -1,0 +1,141 @@
+[{
+    "song": "Montero",
+    "author": "Lil Nas X",
+    "mood": "1",
+    "link": "https://www.youtube.com/watch?v=6swmTBVI83k",
+    "image": "assets/img/songPhotos/montero.jpg"
+  },
+  {
+    "song": "mood",
+    "author": "24kGoldn",
+    "mood": "1",
+    "link": "https://www.youtube.com/watch?v=GrAchTdepsU",
+    "image": "assets/img/songPhotos/mood.jpg"
+  },
+  {
+    "song": "watermelon sugar",
+    "author": "harry styles",
+    "mood": "1",
+    "link": "https://www.youtube.com/watch?v=E07s5ZYygMg",
+    "image": "assets/img/songPhotos/watermelon-sugar.jpg"
+  },
+  {
+    "song": "dance monkey",
+    "author": "tones and i",
+    "mood": "1",
+    "link": "https://www.youtube.com/watch?v=q0hyYWKXF0Q",
+    "image": "assets/img/songPhotos/dance monkey.jpg"
+  },
+  {
+    "song": "invincible",
+    "author": "pop smoke",
+    "mood": "1",
+    "link": "https://www.youtube.com/watch?v=8_oOES_uKPI",
+    "image": "assets/img/songPhotos/invic.jpg"
+  },
+  {
+    "song": "last day",
+    "author": "gothurted",
+    "mood": "2",
+    "link": "https://www.youtube.com/watch?v=hBOV5-I9TU0",
+    "image": "assets/img/songPhotos/last day.jpg"
+  },
+  {
+    "song": "baby do you hate me",
+    "author": "safe sin",
+    "mood": "2",
+    "link": "https://www.youtube.com/watch?v=XaGkn-GV--8",
+    "image": "assets/img/songPhotos/babydo.jpg"
+  },
+  {
+    "song": "come back",
+    "author": "ivoxygen",
+    "mood": "2",
+    "link": "https://www.youtube.com/watch?v=U0U5S-8ku0E",
+    "image": "assets/img/songPhotos/comeback.jpg"
+  },
+  {
+    "song": "je taime pas",
+    "author": "mrc",
+    "mood": "2",
+    "link": "https://www.youtube.com/watch?v=xWj8Aq7J7yw",
+    "image": "assets/img/songPhotos/je.jpg"
+  },
+  {
+    "song": "lovely",
+    "author": "billie eilish",
+    "mood": "2",
+    "link": "https://www.youtube.com/watch?v=V1Pl8CzNzCw",
+    "image": "assets/img/songPhotos/lovely.jpg"
+  },
+  {
+    "song": "heart attack",
+    "author": "scarlxrd",
+    "mood": "3",
+    "link": "https://www.youtube.com/watch?v=OC7cNS0GINo",
+    "image": "assets/img/songPhotos/heart.jpg"
+  },
+  {
+    "song": "6 feet",
+    "author": "scarlxrd",
+    "mood": "3",
+    "link": "https://www.youtube.com/watch?v=hPVqx5AX-sM",
+    "image": "assets/img/songPhotos/6.jpg"
+  },
+  {
+    "song": "trrst",
+    "author": "ic3peak",
+    "mood": "3",
+    "link": "https://www.youtube.com/watch?v=gtPfrhVtZZo",
+    "image": "assets/img/songPhotos/trr.jpg"
+  },
+  {
+    "song": "kismet",
+    "author": "whokilledxix",
+    "mood": "3",
+    "link": "https://www.youtube.com/watch?v=ikBruwZwm3o",
+    "image": "assets/img/songPhotos/kismet.jpg"
+  },
+  {
+    "song": "driver license",
+    "author": "our last night (cover)",
+    "mood": "3",
+    "link": "https://www.youtube.com/watch?v=ZYO27D9ewTI",
+    "image": "assets/img/songPhotos/driver.jpg"
+  },
+  {
+    "song": "controlla",
+    "author": "idealism",
+    "mood": "4",
+    "link": "https://www.youtube.com/watch?v=vMTeA59oOoM",
+    "image": "assets/img/songPhotos/controlla.jpg"
+  },
+  {
+    "song": "i'll keep you safe",
+    "author": "sagun",
+    "mood": "4",
+    "link": "https://www.youtube.com/watch?v=7ly7Mhle-4M",
+    "image": "assets/img/songPhotos/ill.jpg"
+  },
+  {
+    "song": "i need you",
+    "author": "yaeow",
+    "mood": "4",
+    "link": "https://www.youtube.com/watch?v=4omqCDqtXY8",
+    "image": "assets/img/songPhotos/ineedyou.jpg"
+  },
+  {
+    "song": "sometimes",
+    "author": "gigi",
+    "mood": "4",
+    "link": "https://www.youtube.com/watch?v=CGxZyskK__c",
+    "image": "assets/img/songPhotos/sometimes.jpg"
+  },
+  {
+    "song": "waltz no2",
+    "author": "cihat aşkın",
+    "mood": "4",
+    "link": "https://www.youtube.com/watch?v=CetK-RLMucA",
+    "image": "assets/img/songPhotos/waltz.jpg"
+  }
+]
