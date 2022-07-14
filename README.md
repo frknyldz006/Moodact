@@ -1,16 +1,18 @@
-# moodact
+# **Moodact**
 
-A new Flutter project.
+> *Built with Flutter*
+> **2021 ※ Furkan Yıldız**
 
-## Getting Started
+*An app that suggests music and film according to your mood*
 
-This project is a starting point for a Flutter application.
+    Home Screen
+| <a href="https://ibb.co/rZzD7MN"><img src="https://i.ibb.co/sFN8mQz/home1.jpg" alt="home1" border="0"></a> |<a href="https://ibb.co/zGZGf46"><img src="https://i.ibb.co/72K2y1k/home2.jpg" alt="home2" border="0"></a>  |
+|--|--|
+|  |  |
 
-A few resources to get you started if this is your first Flutter project:
+    Suggestion
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<a href="https://ibb.co/m0S052K"><img src="https://i.ibb.co/RN7NTsK/suggestion.jpg" alt="suggestion" border="0"></a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
